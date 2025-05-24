@@ -1,0 +1,10 @@
+{
+  "name": "xiaoqiang-download",
+  "version": "1.0.0",
+  "description": "小强打印助手下载代理",
+  "main": "api/download.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {}
+}
