@@ -1,0 +1,12 @@
+{
+  "name": "download-proxy",
+  "version": "1.0.0",
+  "description": "GitHub 文件中转下载代理",
+  "main": "api/download.js",
+  "type": "module",
+  "scripts": {
+    "start": "node api/download.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
